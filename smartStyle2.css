@@ -1,0 +1,50 @@
+@media screen and (max-width: 767px) {}
+
+.header {
+    max-width: 300px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    max-width: 100px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    max-width: 125px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center2 {
+    max-width: 125px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.side1 {
+    max-width: 200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.side2 {
+    max-width: 75px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    max-width: 300px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
