@@ -27,7 +27,7 @@ body {
 
 .center {
     padding: 0;
-    margin-left: 100%;
+    margin-left: 150px;
     width: 150px;
     height: 50px;
     background: #dbd400;
@@ -36,7 +36,7 @@ body {
 .center2 {
     padding: 0;
     margin-top: 0%;
-    margin-left: 100%;
+    margin-left: 150px;
     width: 150px;
     height: 100px;
     background: #0093b7;
@@ -46,7 +46,7 @@ body {
     padding: 0;
     margin: 0;
     margin-top: 0px;
-    margin-left: 100%;
+    margin-left: 150px;
     width: 250px;
     height: 100px;
     background: #8c2727;
@@ -62,9 +62,10 @@ body {
 
 .footer {
     padding: 0;
-    margin-bottom: -250px;
+    margin-top: 0;
     width: 400px;
     height: 100px;
+    margin-top: 100px;
     background: #d98d30;
 }
 
